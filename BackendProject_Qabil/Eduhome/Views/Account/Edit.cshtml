@@ -1,0 +1,95 @@
+﻿@model UserRegisterM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<!-- Banner Area Start -->
+<div class="banner-area-wrapper">
+    <div class="banner-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="banner-content-wrapper">
+                        <div class="banner-content">
+                            <h2>Edit Profile</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner Area End -->
+<!-- Register start -->
+<div class="register-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="login">
+                    <div class="login-form-container">
+                        <div class="login-text">
+                            <h2>Edit Profile</h2>
+                        </div>
+                        <div class="login-form">
+                            <form method="post" enctype="multipart/form-data">
+                                <div class="row">
+                                    <div class="col-md-6 col-12">
+                                        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                                        <input asp-for="FullName" placeholder="FullName">
+                                        <span asp-validation-for="FullName" class="text-danger"></span>
+                                        <input asp-for="Email" placeholder="Email">
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                        <input asp-for="UserName" placeholder="UserName">
+                                        <span asp-validation-for="UserName" class="text-danger"></span>
+                                        <div class="button-box">
+                                            <a asp-controller="account" asp-action="changepassword" class="btn btn-warning mt-40">Change Password</a>
+                                        </div>
+                                        <div class="button-box">
+                                            <button type="submit" class="default-btn mt-3">Edit</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt-md-0 col-12 mt-2">
+                                        <div class="edit-profil-image">
+                                            <div class="image">
+                                                @if (Model.Image == null)
+                                                {
+                                                    <img style="width:100%" src="~/img/icon/red-profil.jpg" />
+                                                }
+                                                else
+                                                {
+                                                    <span id="deleteImage" class="delete-image position-absolute"><i class="fas fa-times"></i></span>
+                                                    <img style="width:100%" src="~/uploads/users/@Model.Image" />
+                                                    <input type="hidden" name="Image" value="@Model.Image" />
+                                                }
+                                            </div>
+                                            <div class="input">
+                                                <div class="mb-3">
+                                                    <label asp-for="ImageFile" class="form-label mt-4 mb-0">Choose File for Change Profil Image</label>
+                                                    <input class="form-control form-control-lg mt-2" asp-for="ImageFile" style="line-height:26px">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Register end -->
+
+
+@section Scripts{
+    <script>
+
+        $(document).ready(function () {
+            $(document).on("click", "#deleteImage", function () {
+                $(this).parent().html('<img style="width: 100 % " src="/img/icon/red-profil.jpg" />');
+            })
+        });
+
+    </script>
+}

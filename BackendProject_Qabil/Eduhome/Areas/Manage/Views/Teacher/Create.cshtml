@@ -1,0 +1,196 @@
+﻿@model Teacher
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="card">
+                    <div class="card-action">
+                        Create Teacher
+                    </div>
+                    <div class="card-content">
+                        <form class="col s12" method="post" enctype="multipart/form-data">
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm-6">
+                                            <div class="card p-1">
+                                                <div class="input-field mt-12">
+                                                    <input asp-for="ImageFile" class="d-none image-file">
+                                                    <label asp-for="ImageFile" class="p-s input-file white">
+                                                        <span class="d-i-b p-a">Testimonial Image</span>
+                                                    </label>
+                                                    <span class="text-danger" asp-validation-for="ImageFile"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row m-0">
+                                        <div class="input-field col s6">
+                                            <input asp-for="FullName" class="validate @(Model?.FullName!=null?"valid":"")">
+                                            <label asp-for="FullName" class="@(Model?.FullName!=null?"active":"")">FullName</label>
+                                            <span class="text-danger" asp-validation-for="FullName"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Position" class="validate @(Model?.Position!=null?"valid":"")">
+                                            <label asp-for="Position" class="@(Model?.Position!=null?"active":"")">Position</label>
+                                            <span class="text-danger" asp-validation-for="Position"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Degree" class="validate @(Model?.Degree!=null?"valid":"")">
+                                            <label asp-for="Degree" class="@(Model?.Degree!=null?"active":"")">Degree</label>
+                                            <span class="text-danger" asp-validation-for="Degree"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="Experience" class="validate @(Model?.Experience!=null?"valid":"")">
+                                            <label asp-for="Experience" class="@(Model?.Experience!=null?"active":"")">Experience</label>
+                                            <span class="text-danger" asp-validation-for="Experience"></span>
+                                        </div>
+                                        <div class="input-field col s12">
+                                            <textarea asp-for="About" class="validate @(Model?.About!=null?"valid":"")"></textarea>
+                                            <label asp-for="About" class="@(Model?.About!=null?"active":"")">About</label>
+                                            <span class="text-danger" asp-validation-for="About"></span>
+                                        </div>
+                                        <div class="col s10 mb-1">
+                                            <div id="skills">
+                                                <div class="form-row">
+                                                    <div class="input-field col s6">
+                                                        <input name="TeacherSkills[0].Name" class="validate">
+                                                        <label for="TeacherSkills[0].Name" class="">Skill Name</label>
+                                                        <span class="text-danger" asp-validation-for="TeacherSkills[0].Name"></span>
+                                                    </div>
+                                                    <div class="input-field col s3">
+                                                        <input name="TeacherSkills[0].Value" class="validate">
+                                                        <label for="TeacherSkills[0].Value" class="">Skill Value</label>
+                                                        <span class="text-danger" asp-validation-for="TeacherSkills[0].Value"></span>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="input-field col s4">
+                                                <a class="add-skill btn btn-info btn-circle">
+                                                    <i class="fas fa-plus"></i>
+                                                </a>
+                                            </div>
+                                            <div class="input-field col s4">
+                                                <a class="delete-skill btn btn-danger btn-circle">
+                                                    <i class="fas fa-minus"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Email" class="validate @(Model?.Email!=null?"valid":"")">
+                                            <label asp-for="Email" class="@(Model?.Email!=null?"active":"")">E-mail</label>
+                                            <span class="text-danger" asp-validation-for="Email"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Phone" class="validate @(Model?.Phone!=null?"valid":"")">
+                                            <label asp-for="Phone" class="@(Model?.Phone!=null?"active":"")">Phone</label>
+                                            <span class="text-danger" asp-validation-for="Phone"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Skype" class="validate @(Model?.Skype!=null?"valid":"")">
+                                            <label asp-for="Skype" class="@(Model?.Skype!=null?"active":"")">Skype</label>
+                                            <span class="text-danger" asp-validation-for="Skype"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Fb" class="validate @(Model?.Fb!=null?"valid":"")">
+                                            <label asp-for="Fb" class="@(Model?.Fb!=null?"active":"")">Facebook</label>
+                                            <span class="text-danger" asp-validation-for="Fb"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Pint" class="validate @(Model?.Pint!=null?"valid":"")">
+                                            <label asp-for="Pint" class="@(Model?.Pint!=null?"active":"")">Pinterest</label>
+                                            <span class="text-danger" asp-validation-for="Pint"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Vimeo" class="validate @(Model?.Vimeo!=null?"valid":"")">
+                                            <label asp-for="Vimeo" class="@(Model?.Vimeo!=null?"active":"")">Vimeo</label>
+                                            <span class="text-danger" asp-validation-for="Vimeo"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Twit" class="validate @(Model?.Twit!=null?"valid":"")">
+                                            <label asp-for="Twit" class="@(Model?.Twit!=null?"active":"")">Twitter</label>
+                                            <span class="text-danger" asp-validation-for="Twit"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="waves-effect waves-light btn btn-success" style="width:200px">Create</button>
+                        </form>
+                        <div class="clearBoth"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $(document).on("change", ".image-file", function () {
+                let inputFile = "";
+                inputFile = $(this)[0].files[0].name;
+                if (inputFile.length>25) {
+                    inputFile = inputFile.substring(0,22) + "..."
+                }
+                $(this).next().append(inputFile);
+                $(this).next().addClass("valid");
+                $(this).next().children().addClass("active");
+            })
+
+            var orderSkills = function () {
+                var skills = $("#skills .form-row");
+
+                for (var i = 0; i < skills.length; i++) {
+                    var input1 = $(skills[i]).find(".input-field")[0].getElementsByTagName("input");
+                    $(input1).attr("name", "TeacherSkills[" + i + "].Name");
+                    var label1 = $(skills[i]).find(".input-field")[0].getElementsByTagName("label");
+                    $(label1).attr("for", "TeacherSkills[" + i + "].Name");
+
+                    var input2 = $(skills[i]).find(".input-field")[1].getElementsByTagName("input");
+                    $(input2).attr("name", "TeacherSkills[" + i + "].Value");
+                    var label2 = $(skills[i]).find(".input-field")[1].getElementsByTagName("label");
+                    $(label2).attr("for", "TeacherSkills[" + i + "].Value");
+                }
+            }
+
+            $(document).on("click", ".add-skill", function (e) {
+                e.preventDefault();
+
+                var inputs = `<div class="form-row">
+                                <div class="input-field col s6">
+                                    <input name="TeacherSkills[0].Name" class="validate">
+                                    <label for="TeacherSkills[0].Name" class="">Skill Name</label>
+                                    <span class="text-danger field-validation-valid" data-valmsg-for="TeacherSkills[0].Name" data-valmsg-replace="true"></span>
+                                </div>
+                                <div class="input-field col s3">
+                                    <input name="TeacherSkills[0].Value" class="validate">
+                                    <label for="TeacherSkills[0].Value" class="">Skill Value</label>
+                                    <span class="text-danger field-validation-valid" data-valmsg-for="TeacherSkills[0].Value" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>`;
+                $("#skills").append(inputs);
+
+                orderSkills();
+            });
+
+            $(document).on("click", ".delete-skill", function (e) {
+                var skills = $("#skills .form-row");
+                if (skills.length > 1) {
+                    $(skills).last().remove();
+                }
+            });
+
+            $(document).on("change", "#skills input", function () {
+                $(this).next().addClass("active");
+            });
+        })
+    </script>
+}
+
+

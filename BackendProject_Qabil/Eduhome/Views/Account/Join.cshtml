@@ -1,0 +1,161 @@
+﻿@model List<CourseJoin>
+@{
+    ViewData["Title"] = "Join";
+    int order = 4;
+}
+
+<div class="container" id="joins">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Course Name</th>
+                <th>JoinAt</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>@(ViewBag.SelectedPage*5-order)</th>
+                    <td>@item.Course.Name</td>
+                    <td>@item.JoinAt</td>
+                    <td>
+                        @if (item.IsAccepting == null)
+                        {
+                            <span style="float:none" class="badge badge-warning">Pending</span>
+                        }
+                        else if (item.IsAccepting == true)
+                        {
+                            <span style="float:none" class="badge badge-success">Accepting</span>
+                        }
+                        else
+                        {
+                            <span style="float:none" class="badge badge-danger">Rejecting</span>
+                        }
+                    </td>
+                </tr>
+                order--;
+            }
+        </tbody>
+    </table>
+    <!-- Pagination Block -->
+    <div class="row">
+        <div class="col-sm-12 col-md-5 d-flex align-items-center">
+            @if ((ViewBag.SelectedPage * 5 - 4) != ViewBag.TotalJoins)
+            {
+                <div class="dataTables_info">
+                    Showing @(ViewBag.SelectedPage*5-4)  to  @(ViewBag.SelectedPage* 5 < ViewBag.TotalJoins ? ViewBag.SelectedPage * 5:ViewBag.TotalJoins) of @ViewBag.TotalJoins joins
+                </div>
+            }
+            else
+            {
+                <div class="dataTables_info">
+                    Showing @(ViewBag.SelectedPage*5-4) of @ViewBag.TotalJoins joins
+                </div>
+            }
+        </div>
+        <div class="col-sm-12 col-md-7">
+            <div class="dataTables_paginate paging_simple_numbers">
+                <ul class="pagination">
+                    <li class="paginate_button page-item @(ViewBag.SelectedPage==1?"disabled":"")">
+                        <a asp-action="pagenation" asp-route-page="1" asp-route-userId="@ViewBag.UserId" class="page-link"> <i class="fas fa-fast-backward"></i> </a>
+                    </li>
+                    <li class="paginate_button page-item previous @(ViewBag.SelectedPage<=1?"disabled":"")">
+                        <a asp-action="pagenation" asp-route-page="@(ViewBag.SelectedPage-1)" asp-route-userId="@ViewBag.UserId" class="page-link">Previous</a>
+                    </li>
+
+                    @if (ViewBag.SelectedPage == 1)
+                    {
+                        @if (ViewBag.TotalPages >= 3)
+                        {
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="1" asp-route-userId="@ViewBag.UserId" class="page-link">1</a></li>
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="2" asp-route-userId="@ViewBag.UserId" class="page-link">2</a></li>
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="3" asp-route-userId="@ViewBag.UserId" class="page-link">3</a></li>
+                        }
+                        else if (ViewBag.TotalPages == 2)
+                        {
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="1" asp-route-userId="@ViewBag.UserId" class="page-link">1</a></li>
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="2" asp-route-userId="@ViewBag.UserId" class="page-link">2</a></li>
+                        }
+                        else
+                        {
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="1" asp-route-userId="@ViewBag.UserId" class="page-link">1</a></li>
+                        }
+
+                    }
+                    else if (ViewBag.SelectedPage == ViewBag.TotalPages)
+                    {
+                        @if (ViewBag.TotalPages >= 3)
+                        {
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.TotalPages-2)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.TotalPages-2)</a></li>
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.TotalPages-1)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.TotalPages-1)</a></li>
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.TotalPages" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.TotalPages</a></li>
+                        }
+                        else if (ViewBag.TotalPages == 2)
+                        {
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.TotalPages-1)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.TotalPages-1)</a></li>
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.TotalPages" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.TotalPages</a></li>
+                        }
+                        else
+                        {
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.TotalPages" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.TotalPages</a></li>
+                        }
+                    }
+                    else
+                    {
+                        @if (ViewBag.TotalPages >= 3)
+                        {
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.SelectedPage-1)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.SelectedPage-1)</a></li>
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.SelectedPage" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.SelectedPage</a></li>
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.SelectedPage+1)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.SelectedPage+1)</a></li>
+                        }
+                        else if (ViewBag.TotalPages == 2)
+                        {
+                            <li class="paginate_button page-item"><a asp-action="pagenation" asp-route-page="@(ViewBag.SelectedPage-1)" asp-route-userId="@ViewBag.UserId" class="page-link">@(ViewBag.SelectedPage-1)</a></li>
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.SelectedPage" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.SelectedPage</a></li>
+                        }
+                        else
+                        {
+                            <li class="active paginate_button page-item"><a asp-action="pagenation" asp-route-page="@ViewBag.SelectedPage" asp-route-userId="@ViewBag.UserId" class="page-link">@ViewBag.SelectedPage</a></li>
+                        }
+
+                    }
+
+                    <li class="paginate_button page-item next @(ViewBag.SelectedPage>ViewBag.TotalPages-1?"disabled":"")">
+                        <a asp-action="pagenation" asp-route-page="@(ViewBag.SelectedPage+1)" asp-route-userId="@ViewBag.UserId" class="page-link">Next</a>
+                    </li>
+                    <li class="paginate_button page-item @(ViewBag.SelectedPage==ViewBag.TotalPages?"disabled":"")">
+                        <a asp-action="pagenation" asp-route-page="@ViewBag.TotalPages" asp-route-userId="@ViewBag.UserId" class="page-link"><i class="fas fa-fast-forward"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $(document).on("click", "ul.pagination a", function (e) {
+                e.preventDefault();
+                let url = $(this).attr("href");
+                console.log(url);
+
+                async function ResponseHtml() {
+                    const response = await fetch(url)
+                        .then(resp => resp.text())
+                        .then(data =>
+
+                            $("#joins").html(data)
+                        );
+                }
+
+                ResponseHtml();
+            });
+        });
+    </script>
+}
+

@@ -1,0 +1,641 @@
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.exe
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.deps.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.dev.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfoInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CoreCompileInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.Manifest.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.xml
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eduhome.styles.css
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.input.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.output.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorCoreGenerate.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.genruntimeconfig.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CopyComplete
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotFoundPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.exe
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.deps.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.dev.json
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfoInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CoreCompileInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.Manifest.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.xml
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eduhome.styles.css
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.input.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.output.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorCoreGenerate.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotFoundPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CopyComplete
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.pdb
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.genruntimeconfig.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Login.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Course\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Event\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Update.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_NotFoundPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TeachersPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CoursesPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CoursesSearchPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Message.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Join.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Join.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JoinsPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Detail.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Message.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EventsPartial.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\DeleteMessage.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Delete.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Create.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Edit.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Set.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Set.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.AssemblyReference.cache
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\04. Projects\PushPrj\p220_be_21_backendproject-gabil-gurbanov-gadir\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\appsettings.json
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.exe
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.deps.json
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.json
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.runtimeconfig.dev.json
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.pdb
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Eduhome.Views.pdb
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.AssemblyReference.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfoInputs.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.AssemblyInfo.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CoreCompileInputs.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.MvcApplicationPartsAssemblyInfo.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorAssemblyInfo.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.Manifest.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\staticwebassets\Eduhome.StaticWebAssets.xml
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eduhome.styles.css
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.input.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.TagHelpers.output.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorCoreGenerate.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Login.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Set.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Category\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Join.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Message.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EvCategory\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\DeleteMessage.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Message.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Notice\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Update.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_NotFoundPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\SuperAdmin\Set.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Create.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Delete.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Testimonial\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Join.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Course\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Event\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CoursesPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CoursesSearchPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EventsPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JoinsPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotFoundPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TeachersPartial.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Detail.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cache
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.RazorTargetAssemblyInfo.cs
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.Views.pdb
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.csproj.CopyComplete
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.dll
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.pdb
+D:\code\gabilgg_cloning_codes\forIsmet\BackendProject_Qabil\Eduhome\obj\Debug\netcoreapp3.1\Eduhome.genruntimeconfig.cache

@@ -1,0 +1,123 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="card">
+                    <div class="card-action">
+                        Delete Course
+                    </div>
+                    <div class="card-content">
+                        <form class="col s12" method="post" enctype="multipart/form-data">
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm-6">
+                                            <div class="card p-1">
+                                                <div class="image-poster">
+                                                    @if (Model?.Image != null)
+                                                    {
+                                                        <div class="image-wrapper" style="position:relative">
+                                                            <img style="width:100%" src="~/uploads/courses/@Model.Image" />
+                                                            <input type="hidden" name="Image" value="@Model.Image" />
+                                                        </div>
+                                                    }
+                                                    else
+                                                    {
+                                                        <h3 class="mt-2">Have not image</h3>
+                                                    }
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row m-0">
+                                        <div class="input-field col s3">
+                                            <input asp-for="Name" class="validate @(Model?.Name!=null?"valid":"")" disabled>
+                                            <label asp-for="Name" class="active">Name</label>
+                                            <span class="text-danger" asp-validation-for="Name"></span>
+                                        </div>
+                                        <div class="input-field col s12">
+                                            <textarea asp-for="About" class="validate @(Model?.About!=null?"valid":"")" disabled></textarea>
+                                            <label asp-for="About" class="@(Model?.About!=null?"active":"")">About</label>
+                                            <span class="text-danger" asp-validation-for="About"></span>
+                                        </div>
+                                        <div class="input-field col s12">
+                                            <textarea asp-for="Apply" class="validate @(Model?.Apply!=null?"valid":"")" disabled></textarea>
+                                            <label asp-for="Apply" class="@(Model?.Apply!=null?"active":"")">Apply</label>
+                                            <span class="text-danger" asp-validation-for="Apply"></span>
+                                        </div>
+                                        <div class="input-field col s12">
+                                            <textarea asp-for="Certification" class="validate @(Model?.Certification!=null?"valid":"")" disabled></textarea>
+                                            <label asp-for="Certification" class="@(Model?.Certification!=null?"active":"")">Certification</label>
+                                            <span class="text-danger" asp-validation-for="Certification"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="Starts" class="validate @(Model?.Starts!=null?"valid":"")" disabled>
+                                            <label asp-for="Starts" class="active">Start</label>
+                                            <span class="text-danger" asp-validation-for="Starts"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="Duration" class="validate @(Model?.Duration!=null?"valid":"")" disabled>
+                                            <label asp-for="Duration" class="@(Model?.Duration!=null?"active":"")">Duration</label>
+                                            <span class="text-danger" asp-validation-for="Duration"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="ClassDuration" class="validate @(Model?.ClassDuration!=null?"valid":"")" disabled>
+                                            <label asp-for="ClassDuration" class="@(Model?.ClassDuration!=null?"active":"")">ClassDuration</label>
+                                            <span class="text-danger" asp-validation-for="ClassDuration"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <input asp-for="Language" class="validate @(Model?.Language!=null?"valid":"")" disabled>
+                                            <label asp-for="Language" class="@(Model?.Language!=null?"active":"")">Language</label>
+                                            <span class="text-danger" asp-validation-for="Language"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="StudentsLimit" class="validate @(Model?.StudentsLimit!=null?"valid":"")" disabled>
+                                            <label asp-for="StudentsLimit" class="@(Model?.StudentsLimit!=null?"active":"")">StudentsLimit</label>
+                                            <span class="text-danger" asp-validation-for="StudentsLimit"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="Fee" class="validate @(Model?.Fee!=null?"valid":"")" disabled>
+                                            <label asp-for="Fee" class="@(Model?.Fee!=null?"active":"")">Fee</label>
+                                            <span class="text-danger" asp-validation-for="Fee"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <select class="form-control form-control-user p-3 validate @(Model?.CategoryId!=null?"valid":"")" style="height:65%" asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.Categories, "Id","Name"))" disabled>
+                                            </select>
+                                            <label asp-for="CategoryId" class="active">Vimeo</label>
+                                            <span class="text-danger" asp-validation-for="CategoryId"></span>
+                                        </div>
+                                        <div class="input-field col s6">
+                                            <select class="form-control form-control-user p-3 validate @(Model?.TagIds!=null?"valid":"")" style="height:65%" asp-for="TagIds" asp-items="@(new SelectList(ViewBag.Tags, "Id","Name"))" disabled>
+                                            </select>
+                                            <label asp-for="TagIds" class="active">Vimeo</label>
+                                            <span class="text-danger" asp-validation-for="TagIds"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12 mb-1">
+                                    <h3>Are you sure?</h3>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="waves-effect waves-light btn btn-danger" style="width:200px">Delete</button>
+                                    <a asp-action="index" class="waves-effect waves-light btn btn-success" style="width:200px">Cancel</a>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="clearBoth"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

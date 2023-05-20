@@ -1,0 +1,140 @@
+﻿@model Event
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row d-flex j-c-sb a-i-c before_after-none">
+            <div class="col-md-3">
+                <h1>Event</h1>
+            </div>
+            <div class="col-md-3">
+                <a asp-action="index" class="waves-effect waves-light btn btn-info" style="width:100%">Back To Table</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card green">
+                    <div class="card-content white-text">
+                        <span class="card-title">Name</span>
+                        <p>
+                            @Model.Name
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card teal">
+                    <div class="card-content white-text">
+                        <span class="card-title">Event Image</span>
+                        <div class="image">
+                            <img style="width: 100%" src="/uploads/events/@Model.Image" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="row ml-0 m-0">
+                    <div class="col-12">
+                        <div class="card blue-grey">
+                            <div class="card-content white-text">
+                                <span class="card-title">Description</span>
+                                <p>
+                                    @Model.Desc
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="card green">
+                            <div class="card-content white-text">
+                                <span class="card-title">Address</span>
+                                <p>
+                                    @Model.Address
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="row m-0">
+                    <div class="col-md-6">
+                        <div class="card blue-grey darken-1">
+                            <div class="card-content white-text">
+                                <span class="card-title">Start Date</span>
+                                <p>
+                                    @Model.StartDate?.ToString("dd MMMM, yyyy")
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="card yellow darken-1">
+                            <div class="card-content white-text">
+                                <span class="card-title">Start Hour</span>
+                                <p>
+                                    @Model.StartHour?.ToString()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card green">
+                            <div class="card-content white-text">
+                                <span class="card-title">End Hour</span>
+                                <p>
+                                    @Model.EndHour?.ToString()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="row m-0">
+                    <div class="col-md-3">
+                        <div class="card pinterest">
+                            <div class="card-content white-text">
+                                <span class="card-title">Category</span>
+                                <p>
+                                    @Model.EventCategory.Name
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card twitter">
+                            <div class="card-content white-text">
+                                <span class="card-title">Teachers</span>
+                                <p>
+                                    @foreach (var item in Model.TeacherEvents)
+                                    {
+                                        if (item.Id != Model.TeacherEvents.LastOrDefault().Id)
+                                        {
+                                            <a asp-controller="teacher" asp-action="detail" asp-route-id="@item.Teacher.Id"><span style="color: #e0e8f5">@item.Teacher.FullName</span></a> @(",")
+                                        }
+                                        else
+                                        {
+                                            <a asp-controller="teacher" asp-action="detail" asp-route-id="@item.Teacher.Id"><span style="color: #e0e8f5">@item.Teacher.FullName</span></a>
+                                        }
+
+                                    }
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

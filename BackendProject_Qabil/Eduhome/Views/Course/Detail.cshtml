@@ -1,0 +1,187 @@
+﻿@inject Microsoft.AspNetCore.Identity.UserManager<AppUser> userM
+
+@model CourseDetailM
+@{
+    ViewData["Title"] = "Detail";
+
+    AppUser user_detail = null;
+    AppUser us = null;
+
+    if (User.Identity.IsAuthenticated && User.IsInRole("Member"))
+    {
+        user_detail = userM.FindByNameAsync(User.Identity.Name).Result;
+        us = ViewBag.User;
+    }
+
+}
+
+<!-- Banner Area Start -->
+<div class="banner-area-wrapper">
+    <div class="banner-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="banner-content-wrapper">
+                        <div class="banner-content">
+                            <h2>courses details</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner Area End -->
+<!-- Blog Start -->
+<div class="courses-details-area blog-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="courses-details">
+                    <div class="courses-details-img">
+                        <img style="width:100%" src="~/uploads/courses/@Model.Course.Image" alt="courses-details">
+                    </div>
+                    <div class="course-details-content">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <h2 class="mb-1">@Model.Course.Name</h2>
+                            @if (user_detail != null)
+                            {
+                                @if (!us.CourseJoins.Any(x => x.CourseId == Model.Course.Id && (x.IsAccepting == true || x.IsAccepting == null)))
+                                {
+                                    <a asp-action="join" asp-route-courseId="@Model.Course.Id" asp-route-userId="@user_detail.Id" class="btn btn-success" style="width: 200px; height: 40px; font-size: 18px; font-weight: 600">Join</a>
+                                }
+                            }
+                            else
+                            {
+                                <a asp-action="login" asp-controller="account" class="btn btn-success" style="width: 200px; height: 40px; font-size: 18px; font-weight: 600">Join</a>
+                            }
+
+                        </div>
+                        
+                        <hr />
+                        <h2>@Model.Course.Category.Name</h2>
+                        <p>@Model.Course.Category.Desc </p>
+                        <div class="course-details-left">
+                            <div class="single-course-left">
+                                <h3>about course</h3>
+                                <p>@Model.Course.About</p>
+                            </div>
+                            <div class="single-course-left">
+                                <h3>how to apply</h3>
+                                <p>@Model.Course.Apply</p>
+                            </div>
+                            <div class="single-course-left">
+                                <h3>certification</h3>
+                                @Html.Raw(Model.Course.Certification)
+                            </div>
+                        </div>
+                        <div class="course-details-right">
+                            <h3>COURSE FEATURES</h3>
+                            <ul>
+                                <li>starts <span>@Model.Course.Starts?.ToString("dd MMMM, yyyy")</span></li>
+                                <li>duration <span>@Model.Course.Duration Month</span></li>
+                                <li>class duration <span>@Model.Course.ClassDuration hours</span></li>
+                                <li>language <span>@Model.Course.Language</span></li>
+                                <li>students <span>@Model.Course.StudentsLimit</span></li>
+                            </ul>
+                            <h3 class="red">course fee $@Model.Course.Fee?.ToString("0.##")</h3>
+                        </div>
+                    </div>
+                    @if (user_detail != null)
+                    {
+                        <div class="reply-area">
+                            <h3>LEAVE A REPLY</h3>
+                            <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut<br> the is lder of human happinescias unde omnis iste natus error sit volptatem </p>
+                            <form action="/course/sendcoursemessage" method="post">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <p>Subject</p>
+                                        <input asp-for="CourseMessage.Subject">
+                                        <span asp-validation-for="CourseMessage.Subject" class="text-danger"></span>
+                                        <p>Message</p>
+                                        <textarea asp-for="CourseMessage.Message" cols="15" rows="10"></textarea>
+                                        <span asp-validation-for="CourseMessage.Message" class="text-danger"></span>
+                                        <input type="hidden" asp-for="CourseMessage.CourseId" value="@Model.Course.Id" />
+                                        <input type="hidden" asp-for="CourseMessage.AppUserId" value="@user_detail.Id" />
+                                    </div>
+                                </div>
+                                <button type="submit" class="reply-btn"><span>send message</span></button>
+                            </form>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-sidebar right">
+                    <div class="single-blog-widget mb-50">
+                        <h3>search</h3>
+                        <div class="blog-search">
+                            <form id="search">
+                                <input type="search" placeholder="Search..." name="search" id="search_course" />
+                                <a asp-action="index" id="course_search_btn">
+                                    <span><i class="fa fa-search"></i></span>
+                                </a>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="single-blog-widget mb-50">
+                        <h3>categories</h3>
+                        <ul>
+                            @foreach (Category item in ViewBag.Categories)
+                            {
+                                <li><a asp-action="index" asp-route-categoryId="@item.Id">@item.Name (@item.Courses.Count)</a></li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="single-blog-widget">
+                        <h3>tags</h3>
+                        <div class="single-tag">
+                            @foreach (var item in Model.Course.CourseTags)
+                            {
+                                <a asp-action="index" asp-route-tagId="@item.TagId" class="@(item.Id==Model.Course.CourseTags.LastOrDefault().Id?"":"mr-10 mb-10")">@item.Tag.Name</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->
+
+@section Scripts{
+
+    <script>
+        $(document).ready(function () {
+            $(document).on("keyup keydown keypress", "#search_course", function (e) {
+
+                if (e.keyCode == 13) {
+                    e.preventDefault();
+                    let url = $("#course_search_btn").attr("href");
+                    location.href = url;
+                }
+
+                let val = $(this).val();
+
+                let href = "";
+                $("#course_search_btn").attr("href", href);
+
+                href = "/course/index" + "?name=" + val;
+                $("#course_search_btn").attr("href", href);
+
+                if ($(location).attr("href").search("categoryId") > -1) {
+                    let categoryId = $(location).attr("href").split("categoryId=").pop();
+
+                    let href = "";
+                    $("#course_search_btn").attr("href", href);
+
+                    href = "/course/index" + "?name=" + val + "&categoryId=" + categoryId;
+                    $("#course_search_btn").attr("href", href);
+                }
+                console.log($("#course_search_btn").attr("href"));
+
+            });
+        });
+    </script>
+
+}

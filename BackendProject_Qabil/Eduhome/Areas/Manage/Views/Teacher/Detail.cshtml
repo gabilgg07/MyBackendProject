@@ -1,0 +1,186 @@
+﻿@model Teacher
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row d-flex j-c-sb a-i-c before_after-none">
+            <div class="col-md-3">
+                <h1>Teacher</h1>
+            </div>
+            <div class="col-md-3">
+                <a asp-action="index" class="waves-effect waves-light btn btn-info" style="width:100%">Back To Table</a>
+            </div>
+        </div>
+        <div class="row">
+            
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card teal">
+                    <div class="card-content white-text">
+                        <span class="card-title">Teacher Image</span>
+                        <div class="image">
+                            <img style="width: 100%" src="/uploads/teachers/@Model.Image" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="row ml-0 m-0">
+                    <div class="col-12">
+                        <div class="card blue-grey">
+                            <div class="card-content white-text">
+                                <span class="card-title">FullName</span>
+                                <p>
+                                    @Model.FullName
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="card green">
+                            <div class="card-content white-text">
+                                <span class="card-title">About</span>
+                                <p>
+                                    @Model.About
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="row m-0">
+                    <div class="col-12">
+                        <div class="card blue-grey darken-1">
+                            <div class="card-content white-text">
+                                <span class="card-title">Position</span>
+                                <p>
+                                    @Model.Position
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="card yellow darken-1">
+                            <div class="card-content white-text">
+                                <span class="card-title">Degree</span>
+                                <p>
+                                    @Model.Degree
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="row m-0">
+                    <div class="col-md-6">
+                        <div class="card green">
+                            <div class="card-content white-text">
+                                <span class="card-title">Experience</span>
+                                <p>
+                                    @Model.Experience
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card orange">
+                            <div class="card-content white-text">
+                                <span class="card-title">Phone</span>
+                                <p>
+                                    @Model.Phone
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card red">
+                            <div class="card-content white-text">
+                                <span class="card-title">E-mail</span>
+                                <p>
+                                    @Model.Email
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card teal">
+                            <div class="card-content white-text">
+                                <span class="card-title">Skype</span>
+                                <p>
+                                    @Model.Skype
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card facebook">
+                            <div class="card-content white-text">
+                                <span class="card-title">Facebook</span>
+                                <p>
+                                    @Model.Fb
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card pinterest">
+                            <div class="card-content white-text">
+                                <span class="card-title">Pinterest</span>
+                                <p>
+                                    @Model.Pint
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card twitter">
+                            <div class="card-content white-text">
+                                <span class="card-title">Twitter</span>
+                                <p>
+                                    @Model.Twit
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card vimeo">
+                            <div class="card-content white-text">
+                                <span class="card-title">Vimeo</span>
+                                <p>
+                                    @Model.Vimeo
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                @foreach (var item in Model.TeacherSkills)
+                {
+                    <div class="card">
+                        <div class="skill-name d-flex j-c-sb text-info">
+                            <span class="sName">@item.Name</span> <span class="sValue">@item.Value%</span>
+                        </div>
+                        <div class="card-content skill-value-bar">
+                            <div class="progress progress-striped active skill-bar">
+                                <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="@item.Value" aria-valuemin="0" aria-valuemax="100" style="width:@item.Value%">
+                                    <span class="sr-only">@item.Value% Complete (success)</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

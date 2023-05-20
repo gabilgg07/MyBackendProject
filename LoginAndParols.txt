@@ -1,0 +1,8 @@
+superadmin login/parol:  sadmin123
+admin login/parol:  admin123
+editoradmin login/parol:  eadmin123
+
+user login/parol: qabil123
+user login/parol: leyla123
+user login/parol: selim123
+user login/parol: test1234

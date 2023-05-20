@@ -1,0 +1,16 @@
+﻿@model List<Course>
+
+<ul class="position-absolute">
+    @foreach (var item in Model)
+    {
+        <li class="course-search-li">
+            <a asp-action="detail" asp-route-id="@item.Id">
+                <div class="course-search-item">
+                    <img src="~/uploads/courses/@item.Image" />
+                    <span class="name">@item.Name</span>
+                    <span class="start">@item.Starts?.ToString("dd MMMM, yyyy") </span>
+                </div>
+            </a>
+        </li>
+    }
+</ul>

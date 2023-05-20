@@ -1,0 +1,40 @@
+﻿@model Notice
+@{
+    ViewData["Title"] = "Create";
+}
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-action">
+                        Create Notice
+                    </div>
+                    <div class="card-content">
+                        <form class="col s12" method="post">
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="row m-0">
+                                        <div class="input-field col s12">
+                                            <input asp-for="Text" class="validate @(Model?.Text!=null?"valid":"")">
+                                            <label asp-for="Text" class="@(Model?.Text!=null?"active":"")">Notice Text</label>
+                                            <span class="text-danger" asp-validation-for="Text"></span>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <input asp-for="CreatAt" class="validate @(Model?.CreatAt!=null?"valid":"")">
+                                            <label asp-for="CreatAt" class="active fs-1">Notice Create At</label>
+                                            <span class="text-danger" asp-validation-for="CreatAt"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="waves-effect waves-light btn btn-success" style="width:200px">Create</button>
+                        </form>
+                        <div class="clearBoth"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
